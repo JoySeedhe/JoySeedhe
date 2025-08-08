@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Monika Paliwal  
-<img src="https://raw.githubusercontent.com/JoySeedhe/JoySeedhe/main/profile%20option%20pic.jpg
-" alt="Monika Paliwal" width="200" style="border-radius:50%;">
+<img src="https://raw.githubusercontent.com/JoySeedhe/JoySeedhe/main/profile%20option%20pic.jpg" alt="Monika Paliwal" width="200" style="border-radius:50%;">
 
 
 💼 **Aspiring Data Analyst | Business Analyst | AI/ML Enthusiast**  
