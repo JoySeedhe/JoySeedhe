@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Monika Paliwal  
-<img src="https://raw.githubusercontent.com/JoySeedhe/JoySeedhe/main/profile%20option%20pic.jpg" alt="Monika Paliwal" width="200" style="border-radius:50%;">
-
 
 💼 **Aspiring Data Analyst | Business Analyst | AI/ML Enthusiast**  
 📍 Nagpur, India | 📧 monikapalwal777@gmail.com | [LinkedIn](https://www.linkedin.com/in/monika-paliwal-9a85a22ba)  
