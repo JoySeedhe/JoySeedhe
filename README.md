@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Monika Paliwal  
+<img src="" alt="Monika Paliwal" width="200" style="border-radius:50%;">
 
-<!--
-**JoySeedhe/JoySeedhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💼 **Aspiring Data Analyst | Business Analyst | AI/ML Enthusiast**  
+📍 Nagpur, India | 📧 monikapalwal777@gmail.com | [LinkedIn](https://www.linkedin.com/in/monika-paliwal-9a85a22ba)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+🎓 B.Tech in Electronics & Communication Engineering | Diploma in E&CE  
+💡 Skilled in **Python, SQL, Power BI, Advanced Excel, Pandas, NumPy, Matplotlib, Machine Learning**  
+📊 Passionate about **data analytics, visualization, and AI-driven solutions**  
+🔍 Actively seeking **Data Analyst, Business Analyst, and AI/ML roles**  
+
+---
+
+## 🛠 Tech Stack  
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Power BI` `Advanced Excel`  
+`Machine Learning` `Predictive Modeling` `Data Visualization`  
+
+---
+
+## 📂 Featured Projects  
+- 🎬 **[Movie Industry Analysis](https://github.com/JoySeedhe/Movie-Industry-Analysis-SQL-Project)** – SQL & Excel Dashboard  
+- 🛒 **[Global Superstore Analysis](https://github.com/JoySeedhe/Global-Superstore-Analysis--Power-BI)** – Power BI Insights  
+- 📈 **[Instagram Top Posts Predictor](https://github.com/JoySeedhe/Instagram-Top-Posts-Machine-Learning-Model)** – ML Model (81% Accuracy)  
+- 🌱 **Plant Disease Detection** – Published Research  
+
+---
+
+## 📜 Certifications  
+- IBM Python for Data Science and AI – Coursera  
+- Meta Database Structures & Management with MySQL – Coursera  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoySeedhe&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoySeedhe&layout=compact&theme=tokyonight)
+
+---
+⭐ *Always learning, building, and creating impact with data.*
