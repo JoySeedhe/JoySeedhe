@@ -23,7 +23,8 @@
 - 🎬 **[Movie Industry Analysis](https://github.com/JoySeedhe/Movie-Industry-Analysis-SQL-Project)** – SQL & Excel Dashboard  
 - 🛒 **[Global Superstore Analysis](https://github.com/JoySeedhe/Global-Superstore-Analysis--Power-BI)** – Power BI Insights  
 - 📈 **[Instagram Top Posts Predictor](https://github.com/JoySeedhe/Instagram-Top-Posts-Machine-Learning-Model)** – ML Model (81% Accuracy)  
-- 🌱 **Plant Disease Detection** – Published Research  
+- 🌱 **Plant Disease Detection** – Published Research
+- 💊 **[DrugSentix – Analyzing Reddit Drug-Related Discussions](https://github.com/JoySeedhe/DrugSentix--Analyzing-Drug-Related-Posts-Discussions-of-Reddit)** – Used NLP to analyze sentiment and trends in drug-related Reddit conversations.
 
 ---
 
