@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 🎓 B.Tech in Electronics & Communication Engineering | Diploma in E&CE  
-💡 Skilled in **Python, SQL, Power BI, Advanced Excel, Pandas, NumPy, Matplotlib, Machine Learning,NLP,LLM,Prompt Engineering , Generative AI**  
+💡 Skilled in **Python, SQL, Power BI, Machine Learning, NLP, LLM, Prompt Engineering, Generative AI**  
 📊 Passionate about **data analytics, visualization, and AI-driven solutions**  
 🔍 Actively seeking **Data Analyst, Business Analyst, and AI/ML roles**  
 
