@@ -1,51 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Monika%20Paliwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20into%20Intelligence&descAlignY=55&descSize=25" />
-  
-  <br/>
-  
-  <a href="https://linkedin.com/in/monikapaliwal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:monikapalwal777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Monika%20Paliwal&fontSize=80&fontAlignY=35&desc=Turning%20Data%20into%20Decisions&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Analyst+(Internship+Exp);RAG+%26+Computer+Vision+Researcher;Fresh+Graduate+(2025)+%E2%80%A2+Open+to+Work" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+<br />
 
-### 👩‍💻 About Me
-I am a **Machine Learning Engineer** and **Researcher** specializing in **Generative AI** and **Computer Vision**. My work focuses on bridging the gap between theoretical models and production-ready systems, solving challenges in **context retention (RAG)** and **computer vision efficiency**.
-
-* 🔭 **Currently Building:** Retrieval-Augmented Generation (RAG) systems with sub-second latency.
-* 📄 **Research:** Co-authored *"Plant Disease Detection using Deep Learning"* (Published in IJARIE-2025).
-* 💼 **Experience:** Former Data Analyst Intern building enterprise pipelines and dashboards.
-
----
-
-### ⚡ Technical Arsenal
-
-| **Core AI & Deep Learning** | **Data Engineering & Cloud** |
-| :--- | :--- |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=flat-square) | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-black?style=flat-square) |
-
-| **Languages** | **Analysis & Vis** |
-| :--- | :--- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=black) |
-
----
-
-### 🧬 Engineered Intelligence (Featured Projects)
-
-| **Project** | **Architecture & Impact** | **Stack** |
-| :--- | :--- | :--- |
-| **RAG Document Query System** | **Hybrid Retrieval Architecture** <br> • Engineered a semantic search pipeline using **ChromaDB** and transformer embeddings.<br>• Solved context window limits for PDF analysis, achieving **90% query accuracy**. | `LangChain` `VectorDB` `Grok API` |
-| **DrugSentix (NLP)** | **Public Health Monitoring Pipeline** <br> • Processed **10,000+ Reddit posts** to detect high-risk discussions.<br>• Implemented **Word2Vec** embeddings and **LDA** topic modeling.<br>• Achieved **85% precision** in sentiment classification. | `NLP` `SVM` `Topic Modeling` |
-| **Diabetic Retinopathy** | **Medical Image Classification** <br> • Optimized **EfficientNet-B0** via transfer learning for retinal scans.<br>• Surpassed standard CNN benchmarks with **95% validation accuracy**.<br>• Deployed for real-time inference using a **Flask** backend. | `CNN` `Deep Learning` `Flask` |
-
----
-
-### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoySeedhe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoySeedhe&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  <a href="https://www.hackerrank.com/your_username">
+    <img src="https://img.shields.io/badge/HackerRank-4_Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/your_username">
+    <img src="https://img.shields.io/badge/LeetCode-Pandas_Top_50-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://datalemur.com/profile/your_username">
+    <img src="https://img.shields.io/badge/DataLemur-SQL_Mastery-24292F?style=for-the-badge&logo=sql&logoColor=white" height="35" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🛠 Technical Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,wandb,fastapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sql,powerbi,docker,aws,git,vscode" />
+</div>
+
+<br />
+<br />
+
+### 🧬 Featured Projects
+
+#### 🤖 [RAG-Based Document Query System](https://github.com/JoySeedhe)
+![](https://img.shields.io/badge/GenAI-8A2BE2?style=flat-square) ![](https://img.shields.io/badge/Vector_DB-black?style=flat-square) ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+> **Goal:** Eliminate hallucinations when querying private technical PDFs.
+> * **Solution:** Engineered a hybrid retrieval pipeline using **ChromaDB** and **Grok API**.
+> * **Impact:** Achieved **90% query relevance accuracy** via semantic chunking strategies.
+
+#### 💊 [DrugSentix - NLP Analysis](https://github.com/JoySeedhe)
+![](https://img.shields.io/badge/NLP-150458?style=flat-square) ![](https://img.shields.io/badge/Topic_Modeling-FF6F00?style=flat-square) ![](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square)
+> **Goal:** Identify high-risk health trends from unstructured social media text.
+> * **Solution:** Scraped **10,000+ Reddit posts** and applied **Word2Vec** + **LDA Topic Modeling**.
+> * **Impact:** Classified risk indicators with **85% precision**, outperforming baseline models.
+
+#### 👁️ [Diabetic Retinopathy Detection](https://github.com/JoySeedhe)
+![](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square) ![](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square) ![](https://img.shields.io/badge/Flask-000000?style=flat-square)
+> **Goal:** Automate early-stage disease diagnosis from retinal scans.
+> * **Solution:** Fine-tuned an **EfficientNet-B0** architecture using Transfer Learning.
+> * **Impact:** Surpassed VGG16 benchmarks with **95% validation accuracy**.
+
+<br />
+
+<div align="center">
+  <a href="https://linkedin.com/in/monikapaliwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:monikapalwal777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoySeedhe&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999&icon_color=36BCF7" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoySeedhe&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999" height="150" alt="languages graph" />
 </div>
