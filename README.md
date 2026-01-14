@@ -14,14 +14,14 @@
 
 <div align="center">
   <a href="https://www.hackerrank.com/profile/insaan2883">
-    <img src="https://img.shields.io/badge/HackerRank-4_Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/HackerRank-5_Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/your_username">
+  <a href="https://leetcode.com/paliwalmm">
     <img src="https://img.shields.io/badge/LeetCode-Pandas_Top_50-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" />
   </a>
   &nbsp;
-  <a href="https://datalemur.com/profile/your_username">
+  <a href="https://datalemur.com">
     <img src="https://img.shields.io/badge/DataLemur-SQL_Mastery-24292F?style=for-the-badge&logo=sql&logoColor=white" height="35" />
   </a>
 </div>
