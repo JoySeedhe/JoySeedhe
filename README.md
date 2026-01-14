@@ -53,7 +53,7 @@
 > * **Impact:** Classified risk indicators with **85% precision**, outperforming baseline models.
 
 #### 👁️ [Diabetic Retinopathy Detection](https://github.com/JoySeedhe)
-![](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square) ![](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square) ![](https://img.shields.io/badge/Flask-000000?style=flat-square)
+![](https://img.shields.io/badge/Machine_Learning-5C3EE8?style=flat-square) ![](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square) ![](https://img.shields.io/badge/Flask-000000?style=flat-square)
 > **Goal:** Automate early-stage disease diagnosis from retinal scans.
 > * **Solution:** Fine-tuned an **EfficientNet-B0** architecture using Transfer Learning.
 > * **Impact:** Surpassed VGG16 benchmarks with **95% validation accuracy**.
@@ -64,7 +64,7 @@
   <a href="https://linkedin.com/in/monikapaliwal">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:monikapalwal777@gmail.com">
+  <a href="mailto:monikapaliwal888@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
